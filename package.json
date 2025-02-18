@@ -1,0 +1,16 @@
+{
+  "name": "imageconverter",
+  "version": "1.0.0",
+  "main": "convertImageToBitmap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "sharp": "^0.33.5"
+  },
+  "author": "Handy_4ndy",
+  "description": "A tool to convert images to bitmaps for use on a 128x64 OLED display",
+  "keywords": [],
+  "license": "ISC"
+}
