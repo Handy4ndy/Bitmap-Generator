@@ -145,4 +145,4 @@ fs: File system module for reading and writing files.
 Handy_4ndy
 
 ## License
-This project is licensed under the ISC License.
+This project is licensed under the CC0 1.0 Universal License.
