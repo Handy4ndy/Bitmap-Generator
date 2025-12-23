@@ -12,5 +12,5 @@
   "author": "Handy_4ndy",
   "description": "A tool to convert images to bitmaps for use on a 128x64 OLED display",
   "keywords": [],
-  "license": "CCO-1.0"
+  "license": "MIT"
 }

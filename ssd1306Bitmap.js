@@ -1,3 +1,7 @@
+// Bitmap generator for SSD1306 OLED displays (128x64)
+// Converts an image to a monochrome bitmap in the format expected by SSD1306
+// Usage: node ssd1306Bitmap.js (requires 'image.png' in the same directory)
+
 const sharp = require('sharp');
 const fs = require('fs');
 
